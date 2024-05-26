@@ -1,0 +1,12 @@
+[
+  {
+    "podcast": "https://feeds.megaphone.fm/darknetdiaries",
+    "episode": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/G481GD/traffic.megaphone.fm/ADV5008883012.mp3",
+    "device": "data_from_google_podcasts",
+    "action": "play",
+    "started": 0,
+    "position": 841,
+    "total":  841,
+    "timestamp": "2000-01-01T00:00:00"
+  }
+]
